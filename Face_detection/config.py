@@ -1,0 +1,1 @@
+CASCADE = "cascade.xml" # Путь к данным
